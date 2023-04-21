@@ -13,3 +13,4 @@ Vulnerability location: POST /ecodesource/search_list.php HTTP/1.1\r\n
 Tested on Windows 10, phpStudy
 
 There is an example with alert:
+(https://github.com/TzssZ/Content-Management-Systemv1.0-has-Cross-site-Scripting-XSS-/blob/main/1.png)
